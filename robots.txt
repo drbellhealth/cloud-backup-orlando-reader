@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cloud-backup-orlando-v7.example/sitemap.xml
